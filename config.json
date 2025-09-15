@@ -4,7 +4,7 @@
     {
       "sku": "qa",
       "migrate": false,
-      "showPopUp": false
+      "showPopUp": true
     }
   ]
 }
