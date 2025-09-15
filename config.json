@@ -1,3 +1,10 @@
 {
-    "minimal-compactible-version":285
+  "minimal-compactible-version": 285,
+  "migration": [
+    {
+      "sku": "neoex",
+      "migrate": false,
+      "showPopUp": false
+    }
+  ]
 }
