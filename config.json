@@ -5,6 +5,10 @@
       "sku": "qa",
       "migrate": false,
       "showPopUp": true
+    }, {
+      "sku": "uat",
+      "migrate": false,
+      "showPopUp": true
     }
   ]
 }
