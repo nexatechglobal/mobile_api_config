@@ -1,18 +1,6 @@
 {
   "minimal-compactible-version": 285,
   "migration": [
-    {
-      "sku": "qa",
-      "migrate": false,
-      "showPopUp": true,
-      "migrationTo":"Nutrogen",
-      "migrationURL":"https://nutrogen.web.app"
-    }, {
-      "sku": "uat",
-      "migrate": true,
-      "showPopUp": true,
-      "migrationTo":"Nutrogen",
-      "migrationURL":"https://nutrogen.web.app"
-    }
+    
   ]
 }
