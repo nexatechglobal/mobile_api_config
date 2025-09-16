@@ -6,13 +6,13 @@
       "migrate": false,
       "showPopUp": true,
       "migrationTo":"Nutrogen",
-      "migrationURL":"https://redirect.nutrogen.io"
+      "migrationURL":"https://nutrogen.web.app"
     }, {
       "sku": "uat",
       "migrate": false,
       "showPopUp": true,
       "migrationTo":"Nutrogen",
-      "migrationURL":"https://redirect.nutrogen.io"
+      "migrationURL":"https://nutrogen.web.app"
     }
   ]
 }
