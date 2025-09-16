@@ -9,7 +9,7 @@
       "migrationURL":"https://nutrogen.web.app"
     }, {
       "sku": "uat",
-      "migrate": true,
+      "migrate": false,
       "showPopUp": true,
       "migrationTo":"Nutrogen",
       "migrationURL":"https://nutrogen.web.app"
