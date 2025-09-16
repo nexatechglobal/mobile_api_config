@@ -4,11 +4,15 @@
     {
       "sku": "qa",
       "migrate": false,
-      "showPopUp": true
+      "showPopUp": true,
+      "migrationTo":"Nutrogen",
+      "migrationURL":"https://redirect.nutrogen.io"
     }, {
       "sku": "uat",
       "migrate": false,
-      "showPopUp": true
+      "showPopUp": true,
+      "migrationTo":"Nutrogen",
+      "migrationURL":"https://redirect.nutrogen.io"
     }
   ]
 }
