@@ -4,6 +4,7 @@
   ],
   "samsung_enabled":[
     "com.nexatech.nutrogen.app",
-    "com.nexatech.fitstop"
+    "com.nexatech.fitstop",
+    "com.nexatech.nutrogen.uat"
   ]
 }
