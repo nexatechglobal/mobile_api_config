@@ -1,6 +1,9 @@
 {
   "minimal-compactible-version": 358,
   "migration": [
-    
+  ],
+  "samsung_enabled":[
+    "com.nexatech.nutrogen.app",
+    "com.nexatech.fitstop"
   ]
 }
