@@ -7,5 +7,11 @@
     "com.nexatech.fitstop",
     "com.nexatech.nutrogen.uat",
     "com.nexatech.jidlo"
+  ],
+  "garmin_enabled":[
+    "com.nexatech.nutrogen.app",
+    "com.nexatech.fitstop",
+    "com.nexatech.nutrogen.uat",
+    "com.nexatech.jidlo"
   ]
 }
