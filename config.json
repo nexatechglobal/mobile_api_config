@@ -9,5 +9,9 @@
     "com.nexatech.jidlo"
   ],
   "garmin_disabled_for":[
+  ],
+    "fitbit_disabled_for":[
+  ],
+    "mi_disabled_for":[
   ]
 }
