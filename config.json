@@ -13,5 +13,9 @@
     "fitbit_disabled_for":[
   ],
     "mi_disabled_for":[
+  ],
+  "shop_availability":[
+    "AU",
+    "NZ"
   ]
 }
